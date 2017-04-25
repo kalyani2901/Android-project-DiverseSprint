@@ -1,4 +1,6 @@
 # Android-project-DiverseSprint
+Contributor: Zaeem Siddiq
+
 App to promote tree diversity using a game approach
 
 An android App which uses open data of trees from "city of melbourne" and plots each tree on the map.
